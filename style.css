@@ -1,3 +1,27 @@
 h2{
-    color: aquamarine;
+    color: rgb(14, 53, 2);
+}
+
+
+body {
+    background-color: rgb(173, 186, 199);
+    color:rgb(234, 250, 6);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid green;
+}
+
+footer{
+    border-top: 1px solid green;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.text{
+    font-style: italic;
 }
